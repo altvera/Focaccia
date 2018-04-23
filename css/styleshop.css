@@ -1,0 +1,116 @@
+body{
+	margin:20px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: ;
+
+}
+
+header{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cart{
+	display: flex;
+	max-width: 30px;
+	justify-content: flex-end;
+	float: right;
+
+}
+
+h1{
+font-size: 80px;
+
+font-weight: 900;
+font-family: times;
+}
+
+h3{
+	margin-bottom: 10px;
+	font-family: times;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.menu li{
+	display: inline-block;
+	padding: 10px 30px;
+	color:#000;
+	border-right: solid 1px grey ;
+}
+
+.menu li:nth-child(4){
+	border: none;
+}
+
+
+.menu li a {
+	text-decoration: none;
+	color: grey;
+	padding: 5px 50px;
+}
+
+
+
+.menu li a:hover{
+	color: grey;
+	
+}
+
+footer{
+	margin-bottom: 0;
+	color: grey;
+	padding: 10px;
+	padding-bottom: 0;
+	font-size:10px;
+	clear: both
+}
+
+
+.row2 {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+
+}
+
+
+.square { 
+
+	flex: 1;
+	background-color:#a6a6a6;
+	margin: 20px;
+	width: 350px;
+	max-width: 350px;
+	height: 250px;
+	border-radius: 1%;
+	text-align: ;
+	
+}
+
+.square img{
+	display: flex;
+	width: 200px;
+	transform: rotate(90deg);
+	padding-top: 50px;
+	padding-left: 50px;
+
+}
+
+.square h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+button{
+	background-color: #000;
+	color: #fff;
+
+}
+
+.info{
+	float: right;
+	padding-left: 10px;
+	max-width: 45%;
+	text-align: center;
+	}

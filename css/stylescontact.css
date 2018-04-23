@@ -67,10 +67,18 @@ footer{
 	clear: both
 }
 
+img{
+	max-width: 30%;
+	margin: 20px;
+	margin-left: 40px;
+
+}
 
 .contact{
+	
 	text-align: center;
 	padding: 10px;
+	
 }
 
 .contact h1{

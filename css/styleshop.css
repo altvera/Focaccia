@@ -67,7 +67,7 @@ footer{
 }
 
 
-.row2 {
+.row {
 	display: flex;
 	margin: 10px;
 	justify-content: center;
@@ -78,7 +78,7 @@ footer{
 .square { 
 
 	flex: 1;
-	background-color:#a6a6a6;
+	border:solid 1px;
 	margin: 20px;
 	width: 350px;
 	max-width: 350px;
@@ -88,12 +88,12 @@ footer{
 	
 }
 
+
+
 .square img{
-	display: flex;
-	width: 200px;
-	transform: rotate(90deg);
-	padding-top: 50px;
-	padding-left: 50px;
+	width: 150px;
+	padding-top: 20px;
+	padding-left: 15px;
 
 }
 
@@ -112,7 +112,9 @@ button{
 
 .info{
 	float: right;
+	padding-top: 60px;
 	padding-left: 10px;
+	padding-right: 10px;
 	max-width: 45%;
 	text-align: center;
 	}

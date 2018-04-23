@@ -1,13 +1,13 @@
 body{
 	margin:20px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: garamond;
 	background-color: ;
 
 }
 
 header{
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: garamond;
 }
 
 .cart{
@@ -184,7 +184,7 @@ h2{
 }
 
 .square h1{
-	font-family: 'Open Sans', sans-serif;
+	font-family: garamond;
 	font-size: 20px;
 }
 
